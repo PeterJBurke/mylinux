@@ -15,3 +15,10 @@ Put conky.desktop in
 tutorial:
 https://www.youtube.com/watch?v=QB8cjKpdVQY&t=523s
 
+## Bash history 
+basically put this 
+export PROMPT_COMMAND='history -a'
+into /etc/bash.bashrc
+
+
+
