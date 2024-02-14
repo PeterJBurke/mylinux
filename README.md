@@ -32,9 +32,9 @@ Users can copy the text by selecting it from the code block and using the copy s
 If you want to include a button, you can use a link with a label like "Copy" to provide a visual cue for users to copy the text:
 
 ```markdown
-# Your README Title
+# Bash history
 
-To copy the text, click [here](#) or use the copy shortcut:
+echo "export PROMPT_COMMAND='history -a'" >> /etc/bash.bashrc
 
 
 
